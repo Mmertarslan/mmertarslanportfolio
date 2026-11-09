@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vercel/
+.ui-browser/
+.cv-browser*/
+artifacts/
+*.log
+.env
+.env.*
